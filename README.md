@@ -1,6 +1,6 @@
 # macOS ComboBox Navigation Fix for DavaVinci Resolve and others
 
-<img width="300" src="DaVinciResolve-Mac-Combobox.png">
+<img width="450" src="DaVinciResolve-Mac-Combobox.png">
 
 A lightweight Python utility that works around a macOS UI issue affecting combo boxes in applications such as DaVinci Resolve (and potentially other software).
 
