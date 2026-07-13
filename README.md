@@ -1,4 +1,4 @@
-# macOS ComboBox Navigation Fix
+# macOS ComboBox Navigation Fix for DavaVinci Resolve and others
 
 A lightweight Python utility that works around a macOS UI issue affecting combo boxes in applications such as DaVinci Resolve (and potentially other software).
 
